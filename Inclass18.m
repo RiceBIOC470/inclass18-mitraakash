@@ -1,5 +1,10 @@
 % Akash Mitra
 % am132
+%GB comments
+1. 100
+2. 100
+Overall: 100
+
 
 % In class 18
 
